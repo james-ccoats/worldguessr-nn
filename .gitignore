@@ -1,1 +1,12 @@
-test.txt
+test.txtdata/
+*.zip
+*.tfrecord
+*.npz
+*.log
+
+data/
+*.zip
+*.tfrecord
+*.npz
+*.log
+.ipynb_checkpoints/
