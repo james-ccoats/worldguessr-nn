@@ -8,7 +8,7 @@ IMG = 64              # downsample 224 -> 64
 BATCH = 512
 EPOCHS = 15
 LR = 1e-3
-EVAL_TEST = True      # set False while tuning; True for final numbers
+EVAL_TEST = True      # set False while tuning
 
 DATA = "data/processed"
 REC = f"{DATA}/tfrecords-224"
